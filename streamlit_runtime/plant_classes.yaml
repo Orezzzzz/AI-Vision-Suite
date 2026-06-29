@@ -1,0 +1,105 @@
+path: C:\Users\peace\UDEMY projects\YOLO_projects\detection_hub
+train: ''
+val: ''
+nc: 100
+names:
+- Anthracnose Fruit Rot
+- Blossom Blight
+- Cassava_Bacterial_Disease
+- Cassava_Brown_Leaf_Spot
+- Cassava_Healthy
+- Cassava_Mosaic
+- Cassava_Root_Rot
+- Chili___Anthracnose_fruit
+- Chili___Bacterial_leaf_spot
+- Chili___Healthy_fruit
+- Corn Healthy
+- Corn Smut
+- Corn Streak
+- Corn_Blight
+- Corn_Brown_Spots
+- Corn_Cercosporiose
+- Corn_Charcoal
+- Corn_Chlorotic_Leaf_Spot
+- Corn_Healthy
+- Corn_Insects_Damages
+- Corn_Mildiou
+- Corn_Purple_Discoloration
+- Corn_Rust
+- Corn_Smut
+- Corn_Streak
+- Corn_Stripe
+- Corn_Violet_Decoloration
+- Corn_Yellow_Spots
+- Corn_Yellowing
+- Eggplant___Colorado_potato_beetle
+- Eggplant___Fruit_rot
+- Eggplant___Healthy_fruit
+- Eggplant___Healthy_leaf
+- Gray Mold
+- Leaf Spot
+- Potato___Alternaria_solani_leaf
+- Potato___Common_scab_fruit
+- Potato___Healthy_fruit
+- Potato___Healthy_leaf
+- Potato___Phytopthora_infestans_leaf
+- Potato___Virus_leaf
+- Powdery Mildew Fruit
+- Powdery Mildew Leaf
+- Tomato_Brown_Spots
+- Tomato_Leaf_Curling
+- Tomato_Mildiou
+- Tomato_Mosaic
+- Tomato___Anthracnose_fruit
+- Tomato___Bacterial_spot_leaf
+- Tomato___Early_blight_leaf
+- Tomato___Healthy_fruit
+- Tomato___Healthy_leaf
+- Tomato___Late_blight_leaf
+- Tomato___Leaf_mold
+- Tomato_bacterial_wilt
+- Tomato_healthy
+- spider mites
+- Class 57
+- Class 58
+- Class 59
+- Class 60
+- Class 61
+- Class 62
+- Class 63
+- Class 64
+- Class 65
+- Class 66
+- Class 67
+- Class 68
+- Class 69
+- Class 70
+- Class 71
+- Class 72
+- Class 73
+- Class 74
+- Class 75
+- Class 76
+- Class 77
+- Class 78
+- Class 79
+- Class 80
+- Class 81
+- Class 82
+- Class 83
+- Class 84
+- Class 85
+- Class 86
+- Class 87
+- Class 88
+- Class 89
+- Class 90
+- Class 91
+- Class 92
+- Class 93
+- Class 94
+- Class 95
+- Class 96
+- Class 97
+- Class 98
+- Class 99
