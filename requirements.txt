@@ -4,8 +4,6 @@ opencv-python-headless
 numpy
 PyYAML
 onnxruntime
-paddleocr
-paddlepaddle
 av
 Pillow
 pandas
